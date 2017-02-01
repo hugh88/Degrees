@@ -1,1 +1,1 @@
-# Degrees
+# Degree
